@@ -1,14 +1,15 @@
 # Mapping_Earthquakes_1
 
-### Introduction
-The exercise utilzie MapBox and Leaflet to map earthquakes with JavaScript and APIs.
+#### Introduction: The exercise utilzie MapBox and Leaflet to map earthquakes with JavaScript and APIs.
 
-### Various toggle optionss
-
-### Map Object
-![Screen Shot 2022-10-21 at 9 34 39 PM](https://user-images.githubusercontent.com/108419097/197311007-4c8a7633-e479-4bdb-8062-ffd51d2158c0.png)
+#### Various toggle optionss
+![Screen Shot 2022-10-21 at 9 52 48 PM](https://user-images.githubusercontent.com/108419097/197311331-f7f95826-8e66-4da3-abfe-208ce8c47fdc.png)
 
 ### layers: 
+
+0. Map Object
+![Screen Shot 2022-10-21 at 9 34 39 PM](https://user-images.githubusercontent.com/108419097/197311007-4c8a7633-e479-4bdb-8062-ffd51d2158c0.png)
+
 1. All earthquakes
 ![Screen Shot 2022-10-21 at 9 34 50 PM](https://user-images.githubusercontent.com/108419097/197311049-9679dd5b-ee1b-4bed-a2ca-1a463735b00a.png)
 
